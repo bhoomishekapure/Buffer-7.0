@@ -1,2 +1,7 @@
 # Buffer-7.0
-For submission of Buffer 7.0 projects
+The themes for Buffer 7.0 are -
+
+1. Enterprise Systems & Process Optimization
+2. GreenTech
+3. Cybersecurity and Digital Defense
+4. Open Innovation
