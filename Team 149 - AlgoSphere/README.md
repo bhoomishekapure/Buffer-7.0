@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Live Website
 https://algo-sphere-seven.vercel.app/
 
@@ -13,7 +14,7 @@ https://algo-sphere-seven.vercel.app/
 https://drive.google.com/drive/folders/1XrnyCJRwCxMopqNWaJnT1wO6Q9Sd-dnz
 
 ---
-
+## Theme: Open Innovation
 ## Problem Statement
 Data Structures and Algorithms are often difficult to understand through theoretical learning. Students struggle to visualize internal operations such as sorting steps, graph traversal, and memory behavior.
 
